@@ -26,4 +26,3 @@ class AlphavantageQuery:
         print(self.target_url)
         return self
     
-   
