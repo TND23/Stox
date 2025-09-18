@@ -1,6 +1,10 @@
 *I'm just fooling around*
 
+##Requirements
+
+To use this you must have an .env file with the following:
+* Alphavantage api key 
+
 TODOS:
-- Classify stocks and collect sample dataset of closely related stocks
-- Write model to train
-- $$$Profit$$$
+* Write model to train against data obtained through alphavantage for the IT sector
+* $$$Profit$$$

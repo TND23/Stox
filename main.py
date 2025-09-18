@@ -1,10 +1,11 @@
 import os
 from dotenv import load_dotenv
 from modules.alphavantage_query import AlphavantageQuery
+from constants.urls import ALPHAVANTAGE_URL_BASE
 
 load_dotenv()
 api_key = os.getenv('ALPHAVANTAGE_API_KEY')
-url_base = os.getenv('ALPHAVANTAGE_URL_BASE')
+url_base = ALPHAVANTAGE_URL_BASE
 data_path = os.getenv('DATA_PATH')
 
 if os.path.exists(data_path):
