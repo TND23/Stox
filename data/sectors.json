@@ -1,0 +1,72 @@
+{
+    "Discretionary": [
+        "Automotive",
+        "Apparel & Accessories",
+        "Consumer Goods",
+        "Consumer Services",
+        "Leisure Products",
+        "Media",
+        "Restaurants",
+        "Retail"
+    ],
+    "Staples": [
+        "Food & Staples Retailing",
+        "Household Durables",
+        "Retail"
+    ],
+    "Industrials": [
+        "Aerospace & Defense",
+        "Building Products",
+        "Construction & Engineering",
+        "Electrical Equipment",
+        "Engineering & Construction",
+        "Industrial Conglomerates",
+        "Industrial Metals & Minerals",
+        "Industrial Machinery",
+        "Real Estate"
+    ],
+    "Health Care": [
+        "Health Care Equipment",
+        "Health Care Providers",
+        "Health Care Technology",
+        "Health Care Services",
+        "Health Care Supplies"
+    ],
+    "Information Technology": [
+        "Software",
+        "Technology Hardware, Storage & Peripherals",
+        "Semiconductors",
+        "Technology Services",
+        "Telecommunications Services",
+        "Internet & Direct Marketing Retail",
+        "Internet Content & Information",
+        "Consumer Electronics"
+
+    ],
+    "Financials": [
+        "Banks",
+        "Diversified Financial Services",
+        "Insurance",
+        "Real Estate Investment Trusts",
+        "Capital Markets",
+        "Financial Data & Services",
+        "Mortgage Finance",
+        "Thrifts & Mortgage Finance"
+    ],
+    "Energy": [
+        "Oil & Gas Refining & Marketing",
+        "Oil, Gas & Consumable Fuels",
+        "Integrated Oil",
+        "Oil & Gas Equipment & Services",
+        "Oil & Gas Exploration & Production"
+    ],
+    "Materials": [
+        "Aluminum",
+        "Chemicals",
+        "Construction Materials",
+        "Containers & Packaging",
+        "Metals & Mining",
+        "Paper & Forest Products",
+        "Steel"
+    ]
+}
