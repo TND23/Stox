@@ -1,0 +1,1746 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Several Solana staking ETFs may win US approval within two weeks: Analyst",
+      "url": "https://cointelegraph.com/news/solana-staking-etfs-us-approval-prediction-analyst",
+      "time_published": "20250927T053523",
+      "authors": [
+        "Ciaran Lyons"
+      ],
+      "summary": "The two-week approval forecast follows analyst predictions that additional crypto ETF approvals could be a key catalyst for a broader altcoin season.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-09/019989a2-50b6-75ee-8f6a-41992013e1a5",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999691"
+        }
+      ],
+      "overall_sentiment_score": 0.189352,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.246999",
+          "ticker_sentiment_score": "-0.008086",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.470894",
+          "ticker_sentiment_score": "0.26431",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Xiaomi CEO Reveals Company Bought 3 Tesla Model Ys To Tear Apart: '...Disassembling The Parts One By One' - Tesla  ( NASDAQ:TSLA ) , Xiaomi  ( OTC:XIACF ) ",
+      "url": "https://www.benzinga.com/markets/commodities/25/09/47903916/xiaomi-ceo-reveals-company-bought-3-tesla-model-ys-to-tear-apart-disassembling-the-parts-one-",
+      "time_published": "20250927T052022",
+      "authors": [
+        "Mohd Haider"
+      ],
+      "summary": "Xiaomi Corp. ( OTC: XIACF ) ( OTC: XIACY ) CEO Lei Jun revealed on Thursday that the company bought three Tesla ( NASDAQ: TSLA ) Model Y cars for an in-depth study. While speaking at the Beijing National Convention Center, Lei shared details about the process of taking the cars apart for analysis.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/27/Silver-Tesla-Model-X-Electric-Car--Close.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.182229,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "XIACY",
+          "relevance_score": "0.540042",
+          "ticker_sentiment_score": "0.049409",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.540042",
+          "ticker_sentiment_score": "0.310489",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Jony Ive's latest lightbulb moment? A sailing lantern",
+      "url": "https://www.ft.com/content/a7f970a6-d4c6-4ca2-ab6c-0022be388c65",
+      "time_published": "20250927T040040",
+      "authors": [
+        "Rhodri Marsden"
+      ],
+      "summary": "The designer has joined forces with cult Japanese brand Balmuda to create a new seafaring lamp ...",
+      "banner_image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90ea0de2-f90d-4852-9781-835afc8a0dd6.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source": "Financial Times",
+      "category_within_source": "Companies",
+      "source_domain": "www.ft.com",
+      "topics": [],
+      "overall_sentiment_score": 0.283686,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OOBHF",
+          "relevance_score": "0.1331",
+          "ticker_sentiment_score": "0.165449",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "After Public Fallout With Trump, Elon Musk Shows Support Again, Shares Cryptic AI Image Mocking Comey And Blasts Democrats Over Government Shutdown - Microsoft  ( NASDAQ:MSFT ) , Tesla  ( NASDAQ:TSLA ) ",
+      "url": "https://www.benzinga.com/news/politics/25/09/47903847/after-public-fallout-with-trump-elon-musk-shows-support-again-shares-cryptic-ai-image-mocking-comey",
+      "time_published": "20250927T035414",
+      "authors": [
+        "Mohd Haider"
+      ],
+      "summary": "Tesla Inc. ( NASDAQ: TSLA ) CEO Elon Musk publicly backed the Trump administration following former FBI Director James Comey's indictment.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/26/Donald-Trumps-Conversation-With-Elon-Mus_2.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.019453,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.256989",
+          "ticker_sentiment_score": "-0.251498",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.256989",
+          "ticker_sentiment_score": "0.301535",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Supreme Court Hands Trump A Major Win, Allows $4 Billion In Foreign Aid Freeze To Stay In Place As Congressional Deadline Looms",
+      "url": "https://www.benzinga.com/news/legal/25/09/47903831/supreme-court-hands-trump-a-major-win-allows-4-billion-in-foreign-aid-freeze-to-stay-in-place-as-congr",
+      "time_published": "20250927T033321",
+      "authors": [
+        "Mohd Haider"
+      ],
+      "summary": "On Friday, the Supreme Court gave the Donald Trump-led administration permission to keep $4 billion in foreign aid frozen, which was set to expire on Sept. 30. The court's unsigned ruling overturned a decision by U.S.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/26/Judges-Cite-Supreme-Court-Precedent.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [],
+      "overall_sentiment_score": -0.034272,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:ALIS",
+          "relevance_score": "0.098659",
+          "ticker_sentiment_score": "-0.112287",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tata Motors names Shailesh Chandra as MD & CEO, Dhiman Gupta as CFO",
+      "url": "https://cfo.economictimes.indiatimes.com/news/leadership/tata-motors-appoints-new-md-ceo-and-cfo-in-management-reshuffle/124175913",
+      "time_published": "20250927T031639",
+      "authors": [
+        "Kriti Saraiya",
+        "ETCFO"
+      ],
+      "summary": "Shailesh Chandra will take charge as MD & CEO from October 1, 2025. Other key changes include Girish Wagh becoming CV head, while Group CFO P B Balaji will step down to lead Jaguar Land Rover as CEO. The rejig comes ahead of Tata Motors' planned demerger.",
+      "banner_image": "https://etimg.etb2bimg.com/thumb/msid-124175913,imgsize-233201,width-1200,height=627,overlay-etcfo,resizemode-75/leadership/tata-motors-appoints-new-md-ceo-and-cfo-in-management-reshuffle.jpg",
+      "source": "Economic Times",
+      "category_within_source": "Top Stories",
+      "source_domain": "cfo.economictimes.indiatimes.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.079748,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CVGI",
+          "relevance_score": "0.129516",
+          "ticker_sentiment_score": "-0.052196",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin's 'biggest bull catalyst' may be the next Fed chair pick: Novogratz",
+      "url": "https://cointelegraph.com/news/bitcoin-s-biggest-bull-catalyst-may-be-the-next-fed-chair-pick-novogratz",
+      "time_published": "20250927T030650",
+      "authors": [
+        "Ciaran Lyons"
+      ],
+      "summary": "Mike Novogratz said \"of course\" Bitcoin could reach $200,000 if the Federal Reserve adopts a highly dovish stance following a leadership change.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-09/01998906-b5db-7f4d-ae5f-1595e348dcf6",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": -0.034171,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.172713",
+          "ticker_sentiment_score": "0.022653",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.414559",
+          "ticker_sentiment_score": "0.129777",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "China aims to leapfrog the US in robotics. Its latest tactic: robot boot camps",
+      "url": "https://www.scmp.com/economy/china-economy/article/3327001/china-unveils-giant-robot-boot-camps-train-world-leading-humanoids",
+      "time_published": "20250927T021508",
+      "authors": [
+        "Carol Yang"
+      ],
+      "summary": "China is going all out to outpace the United States in the race to develop advanced humanoid robots. Its latest strategy: sending its bots to boot camp. Cities across the country are opening huge humanoid robotics training bases, which put robots through their paces in a variety of different ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/09/26/41d915c3-5697-4eb5-8c3e-b2cfa8edbdf9_20502437.jpg?itok=Jac2_39R&v=1758878473",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.196853,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPTGF",
+          "relevance_score": "0.07446",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.07446",
+          "ticker_sentiment_score": "0.059471",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Trump Explodes On Truth Social, Demands Microsoft Fire Ex-Biden DOJ Official Lisa Monaco: '...A Menace To US National Security' - Microsoft  ( NASDAQ:MSFT ) ",
+      "url": "https://www.benzinga.com/news/events/25/09/47903764/trump-explodes-on-truth-social-demands-microsoft-fire-ex-biden-doj-official-lisa-monaco-a-menace-to-u",
+      "time_published": "20250927T021250",
+      "authors": [
+        "Mohd Haider"
+      ],
+      "summary": "On Friday, President Donald Trump called for Microsoft ( NASDAQ: MSFT ) to dismiss Lisa Monaco, an executive who previously held the position of deputy attorney general under the Biden administration and is now Microsoft's global affairs president. Check out the current price of MSFT stock here.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/26/Hundreds-Of-Microsoft-Employees-Just-Rev.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.060253,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.82927",
+          "ticker_sentiment_score": "0.201015",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How Huawei and DeepSeek are helping China break reliance on US chips",
+      "url": "https://www.scmp.com/tech/tech-war/article/3327025/home-grown-heroes-how-huawei-and-deepseek-are-helping-china-break-reliance-us-chips",
+      "time_published": "20250927T020009",
+      "authors": [
+        "Ann Cao"
+      ],
+      "summary": "When Chinese artificial intelligence start-up DeepSeek unveiled an updated foundational model late in August, investors in Nvidia were stunned. Shares of the US chip giant slid, as market watchers grappled with news that the two-year-old start-up, which has developed models rivalling the world's ...",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/09/26/11bbd080-484c-4899-8f59-731400f9f2e9_1126e908.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.190112,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.024982",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.149038",
+          "ticker_sentiment_score": "0.076158",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.024982",
+          "ticker_sentiment_score": "-0.074991",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.024982",
+          "ticker_sentiment_score": "-0.030285",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin capped below $110K as gold, stocks rally: What's holding BTC back?",
+      "url": "https://cointelegraph.com/news/bitcoin-capped-below-dollar110k-as-gold-stocks-rally-what-s-holding-btc-back",
+      "time_published": "20250927T004500",
+      "authors": [
+        "Marcel Pechman"
+      ],
+      "summary": "Bitcoin struggles to recover and rally despite favorable macroeconomic trends that have sent stock prices higher. What will it take to overcome $110,000?",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-09/019987c7-6cc7-7a0b-8643-cef0a08e6c1d",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.891286"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.576289"
+        }
+      ],
+      "overall_sentiment_score": -0.131088,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.577527",
+          "ticker_sentiment_score": "-0.221968",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "NETWORK MEDIA ANNOUNCES OFFERING OF CONVERTIBLE DEBENTURES AND DEBT SETTLEMENT - Network Media Group  ( OTC:NETWF ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/n47903477/network-media-announces-offering-of-convertible-debentures-and-debt-settlement",
+      "time_published": "20250927T001700",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "VANCOUVER, BC, Sept. 26, 2025 /CNW/ - Network Media Group Inc. ( TSXV:NTE ) ( OTC: NETWF ) ( \"Network\" or the \"Company\" ) announces that it intends to undertake a non-brokered private placement offering of convertible debentures ( the \"Debentures\" ) to raise gross proceeds of CAD$650,000 ( the ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.495866"
+        }
+      ],
+      "overall_sentiment_score": 0.174023,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": []
+    },
+    {
+      "title": "STS Metals and Boeing Extend Titanium Long Term Supply Chain Agreement",
+      "url": "https://www.benzinga.com/pressreleases/25/09/r47903469/sts-metals-and-boeing-extend-titanium-long-term-supply-chain-agreement",
+      "time_published": "20250927T000854",
+      "authors": [
+        "PR.com"
+      ],
+      "summary": "Irwindale, CA September 26, 2025 -- ( PR.com ) -- STS Metals, a leading producer of titanium mill products, stainless, nickel and other specialty alloy products, today announced the extension of its long-term agreement with The Boeing Company.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.319329,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BA",
+          "relevance_score": "0.19117",
+          "ticker_sentiment_score": "0.248965",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "A Husband Stopped Sharing His Business Ideas With His Wife After Many Failed Attempts: 'You Have Sold Her A False Dream Too Many Times'",
+      "url": "https://www.benzinga.com/news/topics/25/09/47903459/a-husband-stopped-sharing-his-business-ideas-with-his-wife-after-many-failed-attempts-you-have-sold-h",
+      "time_published": "20250927T000832",
+      "authors": [
+        "Marc Guberti"
+      ],
+      "summary": "Being an entrepreneur is hard, but it can be more difficult if a spouse is cautious about future projects. A husband recently told Reddit that he doesn't talk with his wife about business projects anymore because she said that \"we know none of them work.\"",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/09/26/Angry-Couple-Talking-In-Emotional-Confli.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.118589,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.066047",
+          "ticker_sentiment_score": "-0.137291",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "General Dynamics Electric Boat awarded $642 million for Virginia-class submarine work - General Dynamics  ( NYSE:GD ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/n47903454/general-dynamics-electric-boat-awarded-642-million-for-virginia-class-submarine-work",
+      "time_published": "20250927T000700",
+      "authors": [
+        "PRNewswire"
+      ],
+      "summary": "GROTON, Conn., Sept. 26, 2025 /PRNewswire/ -- General Dynamics Electric Boat, a business unit of General Dynamics ( NYSE: GD ) , announced today it has been awarded a $642 million contract modification to a previously awarded contract supporting submarine production.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.222163,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GD",
+          "relevance_score": "0.841981",
+          "ticker_sentiment_score": "0.385655",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Quantumsphere Acquisition Corporation Announces Separate Trading for Public Offering Units Starting September 30, 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/09/27/3157290/0/en/Quantumsphere-Acquisition-Corporation-Announces-Separate-Trading-for-Public-Offering-Units-Starting-September-30-2025.html",
+      "time_published": "20250927T000100",
+      "authors": [
+        "Quantumsphere Acquisition Corp"
+      ],
+      "summary": "NEW YORK, Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Quantumsphere Acquisition Corporation ( NASDAQ: QUMSU, the \"Company\" ) , a Cayman Islands exempted company, announced that holders of its 8,280,000 units sold in the Company's initial public offering may elect to separately trade the ordinary shares ...",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.108152,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "QUMSU",
+          "relevance_score": "0.465901",
+          "ticker_sentiment_score": "0.312341",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Delta Air Lines: A First-Class Choice for Investors",
+      "url": "https://www.fool.com/investing/2025/09/26/delta-air-lines-a-first-class-choice-for-investors/",
+      "time_published": "20250926T235200",
+      "authors": [
+        "Justin Ho"
+      ],
+      "summary": "The tally favors Delta over United.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835213%2Fgettyimages-1496407525.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": 0.30202,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "UAL",
+          "relevance_score": "0.115509",
+          "ticker_sentiment_score": "0.111506",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DAL",
+          "relevance_score": "0.115509",
+          "ticker_sentiment_score": "0.111506",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$100 Invested In Automatic Data Processing 20 Years Ago Would Be Worth This Much Today - Automatic Data Processing  ( NASDAQ:ADP ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47903368/100-invested-in-automatic-data-processing-20-years-ago-would-be-worth-this-much-today",
+      "time_published": "20250926T234533",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Automatic Data Processing ( NASDAQ: ADP ) has outperformed the market over the past 20 years by 1.17% on an annualized basis producing an average annual return of 10.03%. Currently, Automatic Data Processing has a market capitalization of $118.09 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADP",
+          "relevance_score": "0.975551",
+          "ticker_sentiment_score": "0.382787",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "If You Invested $1000 In Brinker International Stock 15 Years Ago, You Would Have This Much Today - Brinker International  ( NYSE:EAT ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47903303/if-you-invested-1000-in-brinker-international-stock-15-years-ago-you-would-have-this-much-today",
+      "time_published": "20250926T233031",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Brinker International ( NYSE: EAT ) has outperformed the market over the past 15 years by 1.26% on an annualized basis producing an average annual return of 13.72%. Currently, Brinker International has a market capitalization of $5.87 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EAT",
+          "relevance_score": "0.978984",
+          "ticker_sentiment_score": "0.383138",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: This Artificial Intelligence  ( AI )  Semiconductor Stock Will Join Nvidia, Microsoft, Apple, Alphabet, and Amazon in the $2 Trillion Club by 2028.  ( Hint: Not Broadcom ) ",
+      "url": "https://www.fool.com/investing/2025/09/26/prediction-this-artificial-intelligence-ai-semicon/",
+      "time_published": "20250926T233000",
+      "authors": [
+        "Stefon Walters"
+      ],
+      "summary": "When you're the industry leader by a large margin, growth is on your side.",
+      "banner_image": "https://media.ycharts.com/charts/4b95665eb65d5d8f647c27017a06d738.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.95493"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.312234,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.061003",
+          "ticker_sentiment_score": "0.014015",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.12165",
+          "ticker_sentiment_score": "0.129961",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "XRP faces another 10% dip: When will bulls step in?",
+      "url": "https://cointelegraph.com/news/xrp-faces-another-10percent-dip-when-will-bulls-step-in",
+      "time_published": "20250926T232812",
+      "authors": [
+        "Biraajmaan Tamuly"
+      ],
+      "summary": "XRP consolidated near $2.75 with bearish pressure looming. Onchain data and liquidity compression suggest a possible dip before a price rebound.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-09/019986d7-1bc3-713f-80ec-c96a42249958",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.451494"
+        }
+      ],
+      "overall_sentiment_score": -0.021763,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.141726",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FIREFLY ALERT: Investigation Launched into Firefly Aerospace Inc., Attorneys Encourage Investors and Potential Witnesses to Contact RGRD Law - FLY - Firefly Aerospace  ( NASDAQ:FLY ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47903282/firefly-alert-investigation-launched-into-firefly-aerospace-inc-attorneys-encourage-investors-and-",
+      "time_published": "20250926T231708",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "SAN DIEGO, Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Robbins Geller Rudman & Dowd LLP is investigating potential violations of U.S. federal securities laws involving Firefly Aerospace Inc. ( NASDAQ: FLY ) focused on whether Firefly Aerospace and certain of its top executives made false and/or ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        }
+      ],
+      "overall_sentiment_score": 0.071668,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FLY",
+          "relevance_score": "0.662945",
+          "ticker_sentiment_score": "0.056669",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Billionaire Ken Griffin Just Delivered Spectacular News for Alphabet Investors",
+      "url": "https://www.fool.com/investing/2025/09/26/billionaire-ken-griffin-just-delivered-spectacular/",
+      "time_published": "20250926T231600",
+      "authors": [
+        "Adam Spatacco"
+      ],
+      "summary": "Ken Griffin of Citadel just made a bold proclamation about Alphabet's size in the artificial intelligence (AI) realm.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F834759%2Fgettyimages-1488521147-1.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.136618,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.293038",
+          "ticker_sentiment_score": "0.060401",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "If You Invested $1000 In Goldman Sachs Group Stock 20 Years Ago, You Would Have This Much Today - Goldman Sachs Group  ( NYSE:GS ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47903273/if-you-invested-1000-in-goldman-sachs-group-stock-20-years-ago-you-would-have-this-much-today",
+      "time_published": "20250926T231527",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Goldman Sachs Group ( NYSE: GS ) has outperformed the market over the past 20 years by 1.16% on an annualized basis producing an average annual return of 10.02%. Currently, Goldman Sachs Group has a market capitalization of $250.52 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GS",
+          "relevance_score": "0.975551",
+          "ticker_sentiment_score": "0.382787",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "EW Investor News: If You Have Suffered Losses in Edwards Lifesciences Corporation  ( NYSE: EW ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Edwards Lifesciences  ( NYSE:EW ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47903251/ew-investor-news-if-you-have-suffered-losses-in-edwards-lifesciences-corporation-nyse-ew-you-are-e",
+      "time_published": "20250926T230453",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "NEW YORK, Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, continues to investigate potential breaches of fiduciary duties by the directors and officers of Edwards Lifesciences Corporation ( NYSE: EW ) .",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.226702,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.115232",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EW",
+          "relevance_score": "0.228073",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "If You Invested $1000 In APi Group Stock 5 Years Ago, You Would Have This Much Today - APi Group  ( NYSE:APG ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47903217/if-you-invested-1000-in-api-group-stock-5-years-ago-you-would-have-this-much-today",
+      "time_published": "20250926T230036",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "APi Group ( NYSE: APG ) has outperformed the market over the past 5 years by 14.55% on an annualized basis producing an average annual return of 29.32%. Currently, APi Group has a market capitalization of $14.23 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "APG",
+          "relevance_score": "0.978984",
+          "ticker_sentiment_score": "0.383138",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Mustang Energy Corp. Makes Final Preparations for Surprise Creek Drilling Project, Saskatchewan - MUSTANG ENERGY CORP by Mustang Energy Corp.  ( OTC:MECPF ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47903211/mustang-energy-corp-makes-final-preparations-for-surprise-creek-drilling-project-saskatchewan",
+      "time_published": "20250926T230019",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "VANCOUVER, British Columbia, Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Mustang Energy Corp. ( CSE:MEC, OTC:MECPF, FRA:92T ) , ( CSE: MEC, OTC:MECPF, FRA:92T ) , FRA:92T ) ( the \"Company\" or \"Mustang\" ) is making final preparations for the drilling activities planned on the Surprise Creek ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [],
+      "overall_sentiment_score": 0.224097,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ENGS",
+          "relevance_score": "0.030759",
+          "ticker_sentiment_score": "0.149315",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NNWWF",
+          "relevance_score": "0.030759",
+          "ticker_sentiment_score": "0.046272",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VOYRF",
+          "relevance_score": "0.030759",
+          "ticker_sentiment_score": "0.227067",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Comfort Systems: A Potential Winner in the AI Investment Landscape",
+      "url": "https://www.fool.com/investing/2025/09/26/comfort-systems-a-potential-winner-in-the-ai-inves/",
+      "time_published": "20250926T230000",
+      "authors": [
+        "Motley Fool YouTube"
+      ],
+      "summary": "Could Comfort Systems be the next big opportunity in the AI-driven market? Join us as we analyze its strengths, risks, and potential for growth.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/834579/maxresdefault-11.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.045594,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FIX",
+          "relevance_score": "0.56415",
+          "ticker_sentiment_score": "-0.241863",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "5 Financial Moves to Cover What Social Security Doesn't",
+      "url": "https://www.fool.com/retirement/2025/09/26/5-financial-moves-to-cover-what-social-security-do/",
+      "time_published": "20250926T230000",
+      "authors": [
+        "Kailey Hagen"
+      ],
+      "summary": "Living on Social Security benefits alone is hard. These strategies can help.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F830995%2Fwoman-reviewing-calculating-studying.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.207331,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": []
+    },
+    {
+      "title": "Mustang Energy Corp. Makes Final Preparations for Surprise Creek Drilling Project, Saskatchewan",
+      "url": "https://www.globenewswire.com/news-release/2025/09/26/3157284/0/en/Mustang-Energy-Corp-Makes-Final-Preparations-for-Surprise-Creek-Drilling-Project-Saskatchewan.html",
+      "time_published": "20250926T230000",
+      "authors": [
+        "Mustang Energy Corp."
+      ],
+      "summary": "VANCOUVER, British Columbia, Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Mustang Energy Corp. ( CSE: MEC, OTC:MECPF, FRA:92T ) ( the \"Company\" or \"Mustang\" ) is making final preparations for the drilling activities planned on the Surprise Creek Uranium-Copper Project ( the \"Project\" ) .",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/a0d85b8c-60db-41bb-94a2-139ee496715e/mustang-figure-1.png",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [],
+      "overall_sentiment_score": 0.237556,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ENGS",
+          "relevance_score": "0.029914",
+          "ticker_sentiment_score": "0.148845",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NNWWF",
+          "relevance_score": "0.029914",
+          "ticker_sentiment_score": "0.05073",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VOYRF",
+          "relevance_score": "0.029914",
+          "ticker_sentiment_score": "0.238313",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Iren Stock Plummeted by Nearly 10% on Friday",
+      "url": "https://www.fool.com/investing/2025/09/26/why-iren-stock-plummeted-by-nearly-10-on-friday/",
+      "time_published": "20250926T224750",
+      "authors": [
+        "Eric Volkman"
+      ],
+      "summary": "One market professional believes it's now priced too high, and might be facing some significant capex soon.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835334%2Fperson-in-wheelchair-looking-unhappy-while-wielding-a-laptop.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": -0.033592,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CLSK",
+          "relevance_score": "0.148731",
+          "ticker_sentiment_score": "-0.002711",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RIOT",
+          "relevance_score": "0.148731",
+          "ticker_sentiment_score": "-0.002711",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.148731",
+          "ticker_sentiment_score": "-0.150395",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Here's How Much $100 Invested In CrowdStrike Holdings 5 Years Ago Would Be Worth Today - CrowdStrike Holdings  ( NASDAQ:CRWD ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47903146/heres-how-much-100-invested-in-crowdstrike-holdings-5-years-ago-would-be-worth-today",
+      "time_published": "20250926T224522",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "CrowdStrike Holdings ( NASDAQ: CRWD ) has outperformed the market over the past 5 years by 13.93% on an annualized basis producing an average annual return of 28.7%. Currently, CrowdStrike Holdings has a market capitalization of $120.96 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRWD",
+          "relevance_score": "0.978984",
+          "ticker_sentiment_score": "0.383138",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Li Auto Stock Got Stuck in Traffic Friday",
+      "url": "https://www.fool.com/investing/2025/09/26/why-li-auto-stock-got-stuck-in-traffic-friday/",
+      "time_published": "20250926T224157",
+      "authors": [
+        "Eric Volkman"
+      ],
+      "summary": "The authorities overseeing China's auto sector instituted a new requirement for exporters -- and it won't be optional.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835333%2Fred-traffic-light.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.207361,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LI",
+          "relevance_score": "0.369685",
+          "ticker_sentiment_score": "0.270111",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here's How Much $100 Invested In LPL Finl Hldgs 10 Years Ago Would Be Worth Today - LPL Finl Hldgs  ( NASDAQ:LPLA ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47903076/heres-how-much-100-invested-in-lpl-finl-hldgs-10-years-ago-would-be-worth-today",
+      "time_published": "20250926T223028",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "LPL Finl Hldgs ( NASDAQ: LPLA ) has outperformed the market over the past 10 years by 10.91% on an annualized basis producing an average annual return of 24.07%. Currently, LPL Finl Hldgs has a market capitalization of $27.24 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.15171,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": []
+    },
+    {
+      "title": "Why Six Flags Stock Crushed the Market Today",
+      "url": "https://www.fool.com/investing/2025/09/26/why-six-flags-stock-crushed-the-market-today/",
+      "time_published": "20250926T222711",
+      "authors": [
+        "Eric Volkman"
+      ],
+      "summary": "If a determined institutional shareholder gets its way, the company could see a major transformation.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F835332%2Fa-roller-coaster-at-sunset.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        }
+      ],
+      "overall_sentiment_score": 0.201822,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": []
+    },
+    {
+      "title": "Trailblazer Merger Corporation I",
+      "url": "https://www.globenewswire.com/news-release/2025/09/26/3157282/0/en/Trailblazer-Merger-Corporation-I.html",
+      "time_published": "20250926T221600",
+      "authors": [
+        "Trailblazer Merger Corporation I"
+      ],
+      "summary": "NEW YORK, Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Trailblazer Merger Corporation I ( NASDAQ: TBMC ) ( the \" \" ) today announced that the annual meeting of the stockholders of the Company ( the \" \" ) was duly held on September 26, 2024 at 10:00 A.M.",
+      "banner_image": "",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": 0.301592,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TBMCR",
+          "relevance_score": "0.077845",
+          "ticker_sentiment_score": "0.021301",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Here's How Much You Would Have Made Owning Comfort Systems USA Stock In The Last 10 Years - Comfort Systems USA  ( NYSE:FIX ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47903029/heres-how-much-you-would-have-made-owning-comfort-systems-usa-stock-in-the-last-10-years",
+      "time_published": "20250926T221535",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Comfort Systems USA ( NYSE: FIX ) has outperformed the market over the past 10 years by 27.01% on an annualized basis producing an average annual return of 40.17%. Currently, Comfort Systems USA has a market capitalization of $27.59 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FIX",
+          "relevance_score": "0.975551",
+          "ticker_sentiment_score": "0.382787",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Saison Technology International and Vectara Announce Strategic Partnership to Provide Conversational AI Solutions",
+      "url": "https://www.globenewswire.com/news-release/2025/09/26/3157281/0/en/Saison-Technology-International-and-Vectara-Announce-Strategic-Partnership-to-Provide-Conversational-AI-Solutions.html",
+      "time_published": "20250926T220500",
+      "authors": [
+        "Saison Technology"
+      ],
+      "summary": "Companies to combine best-of-class data integration, data ingestion and enterprise-grade grounded AI agents to create the next level of digital customer experiences and first-line customer support Companies to combine best-of-class data integration, data ingestion and enterprise-grade grounded ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/9fca49b1-9112-4ae0-8a66-9a4114d6d095",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [],
+      "overall_sentiment_score": 0.397595,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FTRK",
+          "relevance_score": "0.044551",
+          "ticker_sentiment_score": "0.31214",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Here's How Much You Would Have Made Owning Autodesk Stock In The Last 20 Years - Autodesk  ( NASDAQ:ADSK ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47902958/heres-how-much-you-would-have-made-owning-autodesk-stock-in-the-last-20-years",
+      "time_published": "20250926T220408",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Autodesk ( NASDAQ: ADSK ) has outperformed the market over the past 20 years by 1.32% on an annualized basis producing an average annual return of 10.18%. Currently, Autodesk has a market capitalization of $69.08 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADSK",
+          "relevance_score": "0.982136",
+          "ticker_sentiment_score": "0.383458",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump calls for the firing of Lisa Monaco, Microsoft president of global affairs",
+      "url": "https://www.cnbc.com/2025/09/26/trump-calls-for-the-firing-of-lisa-monaco-microsoft-president-of-global-affairs.html",
+      "time_published": "20250926T220104",
+      "authors": [],
+      "summary": "Microsoft is facing pressure from President Donald Trump for hiring a Biden law enforcement official.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.028887,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.671304",
+          "ticker_sentiment_score": "-0.037593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.110973",
+          "ticker_sentiment_score": "0.320724",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "A Look Into FirstCash Hldgs Inc's Price Over Earnings - FirstCash Hldgs  ( NASDAQ:FCFS ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47902930/a-look-into-firstcash-hldgs-incs-price-over-earnings",
+      "time_published": "20250926T220048",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "In the current market session, FirstCash Hldgs Inc. ( NASDAQ: FCFS ) stock price is at $153.30, after a 0.89% decrease. However, over the past month, the company's stock spiked by 4.09%, and in the past year, by 33.54%.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        }
+      ],
+      "overall_sentiment_score": 0.095098,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FCFS",
+          "relevance_score": "0.40348",
+          "ticker_sentiment_score": "0.008224",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How Hong Kong's role in China's economic strategy may evolve in the next 5 years",
+      "url": "https://www.scmp.com/economy/china-economy/article/3327000/how-hong-kongs-role-chinas-economic-strategy-could-evolve-next-5-years",
+      "time_published": "20250926T220010",
+      "authors": [
+        "Sylvia Ma"
+      ],
+      "summary": "As China drafts its 15th five-year plan - the next entry in a line of expansive blueprints that have set the tone for the country's development over more than seven decades - we examine how these documents inform and reflect high-level policy priorities, what to expect in the coming iteration ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/09/26/b786c920-fc28-4bad-8325-27bc06f29d45_172dcfc0.jpg?itok=rZbnodS7&v=1758878328",
+      "source": "South China Morning Post",
+      "category_within_source": "Economy",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.983605"
+        }
+      ],
+      "overall_sentiment_score": 0.104798,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "HKXCF",
+          "relevance_score": "0.018802",
+          "ticker_sentiment_score": "0.155685",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SZIHF",
+          "relevance_score": "0.112445",
+          "ticker_sentiment_score": "0.078982",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:HKD",
+          "relevance_score": "0.037593",
+          "ticker_sentiment_score": "0.049687",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.037593",
+          "ticker_sentiment_score": "-0.076609",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.093799",
+          "ticker_sentiment_score": "-0.032658",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "$1000 Invested In Alnylam Pharmaceuticals 5 Years Ago Would Be Worth This Much Today - Alnylam Pharmaceuticals  ( NASDAQ:ALNY ) ",
+      "url": "https://www.benzinga.com/insights/news/25/09/47902918/1000-invested-in-alnylam-pharmaceuticals-5-years-ago-would-be-worth-this-much-today",
+      "time_published": "20250926T215822",
+      "authors": [
+        "Benzinga Insights"
+      ],
+      "summary": "Alnylam Pharmaceuticals ( NASDAQ: ALNY ) has outperformed the market over the past 5 years by 10.45% on an annualized basis producing an average annual return of 25.22%. Currently, Alnylam Pharmaceuticals has a market capitalization of $57.78 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.158543,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ALNY",
+          "relevance_score": "0.978984",
+          "ticker_sentiment_score": "0.383138",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Stablecoin boom risks 'cryptoization' as fragmented rules leave economies exposed - Moody's",
+      "url": "https://cointelegraph.com/news/stablecoin-risks-cryptoization-rules-economies-moodys",
+      "time_published": "20250926T215600",
+      "authors": [
+        "Nate Kostar"
+      ],
+      "summary": "Moody's warns \"cryptoization\" is undermining monetary policy and bank deposits in emerging markets amid uneven regulatory oversight.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-09/019987ef-5ccd-7785-a2f6-a34279eb46be",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.99489"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.02203,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.31583",
+          "ticker_sentiment_score": "-0.046474",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BACHY",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.09232",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "-0.132539",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Meme Coin Modeled on Baby Shark Creator Collapses",
+      "url": "https://decrypt.co/341654/meme-coin-modeled-baby-shark-collapses",
+      "time_published": "20250926T215405",
+      "authors": [
+        "Andr\u00e9 Beganski"
+      ],
+      "summary": "Story Protocol says that it can turn intellectual property into Legos, but some users' dreams were shattered on Thursday.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/08/blockchain-decrypt-style-gID_7.jpg",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.08405,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.205807",
+          "ticker_sentiment_score": "-0.032065",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Big 5 Sporting Goods Corporation Stockholders Approve Acquisition by Worldwide Sports Group Holdings LLC",
+      "url": "https://www.globenewswire.com/news-release/2025/09/26/3157280/13891/en/Big-5-Sporting-Goods-Corporation-Stockholders-Approve-Acquisition-by-Worldwide-Sports-Group-Holdings-LLC.html",
+      "time_published": "20250926T215000",
+      "authors": [
+        "Big 5 Sporting Goods Corporation"
+      ],
+      "summary": "EL SEGUNDO, Calif., Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Big 5 Sporting Goods Corporation ( Nasdaq: BGFV ) ( \"Big 5\" ) , a leading sporting goods retailer, today announced that, at a special meeting of its stockholders held on September 26, 2025 ( the \"Special Meeting\" ) , Big 5 stockholders ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/4f0e7cb6-9cd9-4526-a963-f1ea58789c9c",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.857896"
+        }
+      ],
+      "overall_sentiment_score": 0.045607,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGFV",
+          "relevance_score": "0.122685",
+          "ticker_sentiment_score": "0.127706",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Big 5 Sporting Goods Corporation Stockholders Approve Acquisition by Worldwide Sports Group Holdings LLC - Big 5 Sporting Goods  ( NASDAQ:BGFV ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/09/g47902891/big-5-sporting-goods-corporation-stockholders-approve-acquisition-by-worldwide-sports-group-holdin",
+      "time_published": "20250926T215000",
+      "authors": [
+        "Globe Newswire"
+      ],
+      "summary": "EL SEGUNDO, Calif., Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Big 5 Sporting Goods Corporation ( NASDAQ: BGFV ) ( \"Big 5\" ) , a leading sporting goods retailer, today announced that, at a special meeting of its stockholders held on September 26, 2025 ( the \"Special Meeting\" ) , Big 5 stockholders ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Mergers",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.917436"
+        }
+      ],
+      "overall_sentiment_score": 0.035963,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BGFV",
+          "relevance_score": "0.155702",
+          "ticker_sentiment_score": "0.11189",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROCKET DOCTOR AI INC. ANNOUNCES AUTOMATIC CONVERSION OF SPECIAL WARRANTS",
+      "url": "https://www.globenewswire.com/news-release/2025/09/26/3157279/0/en/ROCKET-DOCTOR-AI-INC-ANNOUNCES-AUTOMATIC-CONVERSION-OF-SPECIAL-WARRANTS.html",
+      "time_published": "20250926T214800",
+      "authors": [
+        "Rocket Doctor AI Inc."
+      ],
+      "summary": "Vancouver, British Columbia, Sept. 26, 2025 ( GLOBE NEWSWIRE ) -- Rocket Doctor AI Inc. ( the \"Company\" or \"Rocket Doctor AI\" ) ( CSE: AIDR, OTC: AIRDF, Frankfurt: 939 ) announces that it has filed a prospectus supplement dated September 22, 2025 ( the \"Prospectus Supplement\" ) to its short form ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/648c6dd6-c4c0-4ceb-9a78-26fecd4678a7",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.310843"
+        }
+      ],
+      "overall_sentiment_score": 0.275752,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": []
+    },
+    {
+      "title": "Will Bitcoin Finish the Month Above $105K? Traders Are Losing Faith",
+      "url": "https://decrypt.co/341684/will-bitcoin-finish-the-month-above-105k-traders-are-losing-faith",
+      "time_published": "20250926T214538",
+      "authors": [
+        "Logan Hitchcock"
+      ],
+      "summary": "Predictors on Myriad Markets are now flipping bearish about Bitcoin's next price milestone, leaning towards $105,000 before $125,000.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": -0.014616,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.377142",
+          "ticker_sentiment_score": "0.181427",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Applied Materials  ( AMAT )  Surpasses Market Returns: Some Facts Worth Knowing",
+      "url": "https://www.zacks.com/stock/news/2757998/applied-materials-amat-surpasses-market-returns-some-facts-worth-knowing",
+      "time_published": "20250926T214506",
+      "authors": [
+        "Zacks Equity Research"
+      ],
+      "summary": "In the latest trading session, Applied Materials (AMAT) closed at $203.92, marking a +2.16% move from the previous day.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default271.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.961735"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.258062,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.545136",
+          "ticker_sentiment_score": "0.388529",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    }
+  ]
+}
