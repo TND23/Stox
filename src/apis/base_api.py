@@ -377,3 +377,27 @@ class BaseAPI(ABC):
         """
         pass
 
+
+def rate_limited(func: Callable[..., T]) -> Callable[..., T]:
+    """
+    Decorator to add rate limiting to a function
+    
+    The function must be a method of a class that has a `rate_limiter` attribute.
+    
+    Usage:
+        @rate_limited
+        def fetch_data(self):
+            # Your code here
+    """
+    @wraps(func)
+    def wrapper(self, *args, **kwargs) -> T:
+        if hasattr(self, 'rate_limiter'):
+            self.rate_limiter.wait_if_needed()
+            result = func(self, *args, **kwargs)
+            self.rate_limiter.record_call()
+            return result
+        else:
+            # If no rate limiter, just call the function
+            return func(self, *args, **kwargs)
+    
+    return wrapper
